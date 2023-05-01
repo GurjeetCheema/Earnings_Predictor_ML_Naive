@@ -11,3 +11,5 @@
 ### - sex	
 ### - hours per week	
 ### - native country (region)
+
+### Trained on the adult csv file contained in the repo. 
